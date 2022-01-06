@@ -1,0 +1,16 @@
+.Typewriter__cursor{
+    color: #eb5757;
+    height: 40px;
+}
+.box:hover .img1 {
+    animation: slideInLeft;
+    animation-duration: 2s;
+}
+.box:hover .img2 {
+    animation: slideInRight;
+    animation-duration: 2s;
+}
+.left:hover{
+    animation: pulse 5s infinite;
+    transition-delay: 5s;
+}

@@ -1,0 +1,23 @@
+.MuiInputLabel-root
+  .MuiInputLabel-formControl
+  .MuiInputLabel-animated
+  .MuiInputLabel-standard
+  .MuiFormLabel-root
+  .MuiFormLabel-colorPrimary
+  .Mui-required
+  .css-aqpgxn-MuiFormLabel-root-MuiInputLabel-root {
+  color: #fff;
+}
+.css-1480iag-MuiInputBase-root-MuiInput-root:before {
+  color: #fff;
+}
+.css-1d1r5q-MuiFormHelperText-root {
+  color: #fff;
+}
+.textField{
+    color: #fff;
+}
+.textContent:hover{
+  color: #ef4c4dc2;
+  transition: 0.2s;
+}
